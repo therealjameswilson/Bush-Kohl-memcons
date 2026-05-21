@@ -2,6 +2,11 @@
 
 Working list for FRUS annotation support, starting from records publicly attributed to the Brent Scowcroft Collection (including Presidential Telcon Files / Presidential Memcons file references in Bush Library citations).
 
+## User-requested target
+
+- Requested Catalog record: **https://catalog.archives.gov/id/4545942**.
+- Pertinent Bush–Kohl memcons/telcons identified and retained below (with publicly accessible source pages and archival citation notes).
+
 ## Chronological list
 
 1. **May 30, 1990** — **Memorandum of Telephone Conversation**: “Telephone Call from Chancellor Helmut Kohl of the Federal Republic of Germany” (Kohl → Bush).  
